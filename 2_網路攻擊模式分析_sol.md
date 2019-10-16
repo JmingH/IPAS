@@ -27,16 +27,17 @@ D. Trojan horse 木馬
 ```
 答案: C
 ```
+```
 5. Juanita is a network administrator for a small accounting firm. The users on her network
 are complaining of slow connectivity. When she examines the firewall logs, she observes a
 large number of half-open connections. 
 What best describes this attack?
-
+```
+```
 A. DDoS 分散式阻斷服務攻擊
 B. SYN flood SYN洪水
 C. Buffer overflow 緩衝區溢位
 D. ARP poisoning ARP欺騙
-
 ```
 ```
 答案: B
