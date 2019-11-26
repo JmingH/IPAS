@@ -50,8 +50,15 @@ ABAC
 # ELK
 # HONEYPOT
 # 3A
+...* Authentication 驗證
 ```
-Authentication
-Accounting
-Authorization
+是對用戶的身份進行驗證，判斷其是否為合法用戶。
+```
+...* Accounting 帳號管理
+```
+是記錄用戶使用網路服務的資源情況，這些信息將作為計費的依據。
+```
+...* Authorization 授權
+```
+是對通過認證的用戶，授權其可以使用哪些服務。
 ```
