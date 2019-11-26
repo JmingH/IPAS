@@ -28,10 +28,24 @@ IPsec （如Cisco IPSec VPN）
 SSL VPN
 AnyConnect（Cisco SSL VPN）
 ```
-# DAC
-# MAC
-# RBAC
-# ABAC
+# 存取控制
+```
+DAC
+自由存取控制（Discretionary Access Control, DAC)，以創建資訊元件的元件持有者授權為基礎，不需要經過管理者授權，
+持有者授權可以決定使用者對於資訊元件的存取權限。
+
+MAC
+強制存取控制（Mandatory Access Control, MAC)，以管理者授權為基礎，所有的資訊元件都需要經過管理者授權，才能被使用者所存取。
+
+RBAC
+角色存取控制（Role-base Access Control），存取權限與使用者角色相依，資訊元件的存取被授權給角色，使用者需要先取得角色身份，
+才能透過角色身份取得存取權限。
+
+ABAC
+Attribute-based access control (ABAC)
+基於屬性的訪問控制，也稱為基於策略的訪問控制，定義了一種訪問控制範例，通過將屬性組合在一起的策略將訪問權限授予用戶。
+```
+
 # 重送攻擊
 # ELK
 # HONEYPOT
