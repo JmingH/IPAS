@@ -2,16 +2,16 @@
 ```
 1.1 熟悉底下[惡意程式malware]
 Given a scenario, analyze indicators of compromise and determine the type of malware.
-■■ Viruses
-■■ Crypto-malware
-■■ Ransomware
-■■ Worm
-■■ Trojan
-■■ Rootkit
-■■ Keylogger
-■■ Adware
-■■ Spyware
-■■ Bots
+■■ Viruses  病毒
+■■ Crypto-malware 木馬
+■■ Ransomware  勒索軟體
+■■ Worm  蠕蟲
+■■ Trojan   木馬
+■■ Rootkit  惡意程式
+■■ Keylogger   鍵盤側錄
+■■ Adware   廣告軟體
+■■ Spyware  間諜軟體
+■■ Bots  殭屍病毒
 ■■ RAT
 ■■ Logic bomb
 ■■ Backdoor
