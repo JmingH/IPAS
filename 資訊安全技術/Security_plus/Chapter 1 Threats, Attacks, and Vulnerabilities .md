@@ -12,24 +12,24 @@ Given a scenario, analyze indicators of compromise and determine the type of mal
 ■■ Adware   廣告軟體
 ■■ Spyware  間諜軟體
 ■■ Bots  殭屍病毒
-■■ RAT
-■■ Logic bomb
-■■ Backdoor
+■■ RAT   遠端存取木馬
+■■ Logic bomb  邏輯炸彈
+■■ Backdoor 後門
 
 1.2 熟悉各種攻擊模式  Compare and contrast types of attacks.
 
 社交攻擊模式Social engineering
-   Phishing
-   Spear phishing
-   Whaling
-   Vishing
-   Tailgating
-   Impersonation
+   Phishing 網路釣魚
+   Spear phishing 魚叉式網路釣魚
+   Whaling  網路捕鯨
+   Vishing  語音釣魚
+   Tailgating  尾隨
+   Impersonation  假冒攻擊
 
-■ Dumpster diving
-■■ Shoulder surfing
-■■ Hoax
-■■ Watering hole attack
+■ Dumpster diving 垃圾搜尋
+■■ Shoulder surfing  肩窺
+■■ Hoax  惡作劇病毒
+■■ Watering hole attack 水坑攻擊
 ■■ Principles (reasons for effectiveness)
     Authority
     Intimidation
