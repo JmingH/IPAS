@@ -31,30 +31,30 @@ Given a scenario, analyze indicators of compromise and determine the type of mal
 ■■ Hoax  惡作劇病毒
 ■■ Watering hole attack 水坑攻擊
 ■■ Principles (reasons for effectiveness)
-    Authority
+    Authority  盲信權威
     Intimidation
-    Consensus
-    Scarcity
+    Consensus  使命必達
+    Scarcity   物稀為貴
     Familiarity
     Trust 
     Urgency
 
 Application/service attacks
-■■ DoS
-■■ DDoS
-■■ Man-in-the-middle
-■■ Buffer overflow
-■■ Injection
-■■ Cross-site scripting
-■■ Cross-site request forgery
-■■ Privilege escalation
-■■ ARP poisoning
-■■ Amplification
-■■ DNS poisoning
-■■ Domain hijacking
-■■ Man-in-the-browser
-■■ Zero day
-■■ Replay
+■■ DoS   阻斷服務敢擊
+■■ DDoS  分散式阻斷服務攻擊 
+■■ Man-in-the-middle 中間人攻擊
+■■ Buffer overflow   緩衝區溢位
+■■ Injection   注入
+■■ Cross-site scripting 跨網站指令碼 XSS
+■■ Cross-site request forgery 跨站請求偽造
+■■ Privilege escalation 特權提升
+■■ ARP poisoning  ARP欺騙
+■■ Amplification  放大攻擊
+■■ DNS poisoning  網域伺服器快取汙染
+■■ Domain hijacking  DNS劫持
+■■ Man-in-the-browser   瀏覽器中間人
+■■ Zero day 零日攻擊
+■■ Replay   重放攻擊
 ■■ Pass the hash
 ■■ Hijacking and related attacks
 ■■ Clickjacking
