@@ -3,10 +3,10 @@
 2.1 Install and configure network components,
 both hardware- and software-based, to support
 organizational security.
-■■ Firewall
-■■ ACL
+■■ Firewall 防火牆
+■■ ACL  存取控制清單
 ■■ Application-based vs. network-based
-■■ Stateful vs. stateless
+■■ Stateful vs. stateless 狀態 vs 無狀態
 ■■ Implicit deny
 ■■ VPN concentrator
 ■■ Remote access vs. site-to-site
