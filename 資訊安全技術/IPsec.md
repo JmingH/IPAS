@@ -9,8 +9,8 @@ Internet Protocol Security (IPsec) is a secure network protocol suite that authe
 an Internet Protocol network. It is used in virtual private networks (VPNs).
 
 IPsec主要由以下協定組成：  
-1.**認證頭（AH）**:為IP資料報提供無連接資料完整性、訊息認證以及防重放攻擊保護  
-2.**封裝安全載荷（ESP）**:提供機密性、資料來源認證、無連接完整性、防重放和有限的傳輸流（traffic-flow）機密性  
+1.**認證頭（AH）**:為IP資料報提供無連接資料**完整性**、訊息認證以及防重放攻擊保護  
+2.**封裝安全載荷（ESP）**:提供**機密性**、資料來源認證、無連接完整性、防重放和有限的傳輸流（traffic-flow）機密性  
 3.**安全關聯（SA）**:提供演算法和封包，提供AH、ESP操作所需的參數  
 ### 認證頭(AH)
 ```
